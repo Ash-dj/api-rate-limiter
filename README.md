@@ -87,7 +87,7 @@ api-rate-limiter/
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/api-rate-limiter.git
+git clone https://github.com/Ash-dj/api-rate-limiter.git
 cd api-rate-limiter
 npm install
 ```
